@@ -1,0 +1,183 @@
+body{
+    background-image: url(/img/Path\ 1.png);
+
+}
+.first{
+    background-image: url(/img/FondoTwitch.png);
+    width: 99vw;
+    height: 100vh;
+}
+.head{
+    width: 96vw;
+    height: 8vh;
+}
+.search{
+    position: absolute;
+    top: 45px;
+}
+.back{
+    position: absolute;
+    right: 25px;
+    top: 35px;
+}
+.login{
+    width: 4vw;
+    position: absolute;
+    right: 95px;
+    top: 50px;
+}
+.body{
+    height: 85vh;
+    width: 89vw;
+    position: absolute;
+    right: 25px;
+}
+.amazon{
+    position: absolute;
+    left: 535px;
+    top: 110px;
+}
+.anun{
+    color: white;
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.descrip{
+    position: absolute;
+    left: 310px;
+    top: 465px;
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second{
+    position: absolute;
+    left: 265px;
+    top: 515px;
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.endl{
+    color: white;
+    position: absolute;
+    left: 775px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 565px;
+}
+.back2{
+    position: absolute;
+    right: 595px;
+    width: 25vw;
+    bottom: 25px;
+}
+.sign{
+    position: absolute;
+    right: 635px;
+    bottom: 55px;
+}
+.other{
+        border: solid white;
+        background-image: url(/img/Path\ 1.png);
+        width: 99vw;
+        height: 200vh;
+}
+.body2{
+    border: solid white;
+    height: 190vh;
+    width: 95vw;
+    position: absolute;
+    left: 55px;
+}
+.back3{
+    
+    height: 45vh;
+    width: 85vw;
+    position: absolute;
+    right: 35px;
+}
+.back4{
+    border-radius: 95px;
+    background-color: #00A8E1;
+    height: 75vh;
+    width: 85vw;
+    position: absolute;
+    right: 35px;
+    top: 450px;
+}
+.title{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    position: absolute;
+    left: 215px;
+}
+.c1{
+    position: absolute;
+    left: 355px;
+    top: 112px;
+}
+.c2{
+    position: absolute;
+    left: 555px;
+    top: 112px;
+}
+.c3{
+    position: absolute;
+    left: 755px;
+    top: 112px;
+}
+.c4{
+    position: absolute;
+    right: 445px;
+    top: 112px;
+}
+.c5{
+    position: absolute;
+    right: 245px;
+    top: 112px;
+}
+.enl{
+    color: white;
+    position:absolute;
+    bottom: 145px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 20;
+    font-size: 37px;
+    right: 355px;
+}
+.enl2{
+    color: white;
+    position:absolute;
+    bottom: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 20;
+    font-size: 35px;
+    right: 255px;
+}
+.back5{
+    border-radius: 95px;
+    background-color: #00A8E1;
+    height: 45vh;
+    width: 85vw;
+    position: absolute;
+    right: 35px;
+    bottom: 175px;
+}
+.title2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    position: absolute;
+    left: 415px;
+}
+.Cancel{
+    position: absolute;
+    top: 125px;
+    width: 7vw;
+    right: 755px;
+}
